@@ -20,6 +20,9 @@ Welcome! I am **Srikanth Komala Sheshachala**
   - [safer](https://github.com/talegari/safer) -- A consistent interface to encrypt and decrypt strings, R objects, files 
   - [disto](https://github.com/talegari/disto) -- Unified Interface for Distances Matrices in R
   - ...
+- I maintain these collections: 
+  - [Deep learning libraries in R](https://github.com/talegari/r_neural_network_deep_learning)
+  - [Notes in Statistical Learning, Machine learning and Data Science](https://github.com/talegari/statsLearningNotes)
   
  Drop me a message: gmail sri.teach, [linkedin](https://www.linkedin.com/in/srikanthks01/) srikanthks01
   
