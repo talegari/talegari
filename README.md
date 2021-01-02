@@ -11,10 +11,12 @@ Welcome! I am **Srikanth Komala Sheshachala**
      - Spatio-temporal analysis
      - Multivariate statistics
      - ...
-- <ins>Day Job</ins>: Data science 'Generalist' / Technical Manager (20% people manager) at OLA (Olacabs, ANI technologies Ltd, India). Previously, I have worked with DISH coprporation, Cognizant, Infosys, ...
+     
+- <ins>Day Job</ins>: Data science 'Generalist' / Technical Manager (20% people manager) at OLA (Olacabs, ANI technologies Ltd, India). Previously, I have worked with DISH corporation, Diet Code, Cognizant, Infosys, ...
 - <ins>Coding</ins>: R and Python (and with intermittent switching for various projects), sprinking of C++
 - <ins>Work</ins>: I contribute to open source repositories. Author and maintainer of these R packages: 
-
+  
+  - [tidypandas](https://github.com/talegari/tidypandas) -- (in-dev) A dplyr like API for pandas
   - [tidyrules](https://github.com/talegari/tidyrules) -- Rules as tidy dataframes from rule based models like C50, Cubist, rpart
   - [solitude](https://github.com/talegari/solitude) -- An implementation of isolation forest
   - [safer](https://github.com/talegari/safer) -- A consistent interface to encrypt and decrypt strings, R objects, files 
