@@ -1,4 +1,8 @@
-Welcome! I am **Srikanth Komala Sheshachala** ([linkedin profile](https://www.linkedin.com/in/srikanthks01/))
+Welcome! I am **Srikanth Komala Sheshachala** 
+
+> - [linkedin profile](https://www.linkedin.com/in/srikanthks01)
+> - [Short profile for headhunters](https://raw.githubusercontent.com/talegari/talegari/main/work_snippet_for_headhunters)
+> - [Download CV / Resume](http://bit.ly/cv_srikanthks)
 
 - <ins>Interests</ins>: 
   - Broadly, Data Science. 
