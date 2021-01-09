@@ -1,4 +1,4 @@
-Welcome! I am **Srikanth Komala Sheshachala**
+Welcome! I am **Srikanth Komala Sheshachala** ([linkedin profile](https://www.linkedin.com/in/srikanthks01/))
 
 - <ins>Interests</ins>: 
   - Broadly, Data Science. 
