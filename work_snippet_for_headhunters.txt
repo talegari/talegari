@@ -7,7 +7,7 @@ people_management  : Yes
 team_size          : 8
 previous_companies : DISH, Diet Code, Cognizant
 skillset           : data science, machine learning, statistics, deep learning
-specialization     : Marketing Data Science LTV, churn models, Offers optimization), AB tests and inference, recommender systems at scale, geospatial analysis, interpretable and causal machine learning
+specialization     : Marketing Data Science (LTV, churn models, Offers optimization), AB tests and inference, Recommender systems at scale, geospatial analysis, interpretable and causal machine learning
 linkedin           : https://www.linkedin.com/in/srikanthks01/
 github             : https://github.com/talegari
 current_location   : Bangalore, India
