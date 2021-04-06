@@ -1,6 +1,6 @@
 name               : Srikanth KS
-exp_overall        : 11y 0m
-exp_data_science   : 6y 8m
+exp_overall        : 11y 2m
+exp_data_science   : 6y 10m
 exp_other          : 4y 4m
 current_position   : Senior Technical Manager, Data Sciences (DS III)
 hands_on_technical : Yes, 80% of time
@@ -13,4 +13,4 @@ linkedin           : https://www.linkedin.com/in/srikanthks01/
 github             : https://github.com/talegari
 current_location   : Bangalore, India
 email              : sri <dot> teach <at> gmail <dot> com
-date_updated       : 2021-01-25
+date_updated       : 2021-04-06
