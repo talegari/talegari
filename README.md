@@ -4,21 +4,33 @@ Welcome! I am **Srikanth Komala Sheshachala**
 > - [Short profile for headhunters](https://raw.githubusercontent.com/talegari/talegari/main/work_snippet_for_headhunters.txt)
 > - [Download CV / Resume](http://bit.ly/cv_srikanthks)
 
-- <ins>Interests</ins>: 
-  - Broadly, Data Science. 
-  - Specifically: 
-  
-     - Interpretable machine learning
-     - Causal inference
-     - Setting up, running and infering from AB tests and multi-armed bandits
-     - Graph theoretic approaches to problems in data science
-     - Spatio-temporal analysis
-     - Multivariate statistics
-     - ...
+- **Interests**: 
+    - Interpretable machine learning
+    - Causal inference
+    - Setting up, running and infering from AB tests and multi-armed bandits
+    - Optimization
+    - Graph theoretic approaches to problems in data science
+    - Spatio-temporal analysis
+    - Multivariate statistics
+    - ...
      
-- <ins>Day Job</ins>: Data science 'Generalist' / Technical Manager (20% people manager) at OLA (Olacabs, ANI technologies Ltd, India). Previously, I have worked with DISH corporation, Diet Code, Cognizant, Infosys, ...
-- <ins>Coding</ins>: R and Python (and with intermittent switching for various projects), sprinking of C++
-- <ins>Work</ins>: I contribute to open source repositories. Author and maintainer of these R packages: 
+- **Day Job**: Staff Data Scientist at [Walmart Gobal Tech, India](https://one.walmart.com/content/globaltechindia/en_in/about-us.html). Previously, I have worked with [Olacabs(https://www.olacabs.com/), [DISH corporation](https://www.dish.com/), Diet Code, [Cognizant](https://www.cognizant.com/), [Infosys](https://www.infosys.com/), ...
+
+- **Coding**: 
+
+    - [Python](https://www.python.org/) (and with intermittent switching for various projects)
+    - [R](https://www.r-project.org/)
+    - sprinking of C++
+ 
+- **Frameworks**: 
+
+    - [Spark](https://spark.apache.org/) (via [Sparklyr](https://spark.rstudio.com/) / [pyspark](https://spark.apache.org/docs/latest/api/python/) / [spark SQL](https://spark.apache.org/sql/))
+    - Deep Learning: [Tensorflow](https://www.tensorflow.org/) and ([keras](https://keras.io/))
+    - Machine Learning: [scikit-learn](https://scikit-learn.org/stable/), [tidymodels](https://www.tidymodels.org/), [h2o](https://www.h2o.ai/products/h2o/)
+    - Optimization: [pyomo](http://www.pyomo.org/) and [ROI](http://roi.r-forge.r-project.org/index.html)
+    
+    
+- **Work**: I contribute to open source repositories. Author and maintainer of these software: 
   
   - [tidypandas](https://github.com/talegari/tidypandas) -- (in-dev) A dplyr like API for pandas
   - [tidyrules](https://github.com/talegari/tidyrules) -- Rules as tidy dataframes from rule based models like C50, Cubist, rpart
@@ -31,4 +43,3 @@ Welcome! I am **Srikanth Komala Sheshachala**
   - [Notes in Statistical Learning, Machine learning and Data Science](https://github.com/talegari/statsLearningNotes)
   
  Drop me a message: gmail sri.teach, [linkedin](https://www.linkedin.com/in/srikanthks01/) srikanthks01
-  
