@@ -8,7 +8,7 @@ Welcome! I am **Srikanth Komala Sheshachala**
     - Interpretable machine learning
     - Causal inference
     - Setting up, running and infering from AB tests and multi-armed bandits
-    - Optimization
+    - Optimization (Operations Research)
     - Graph theoretic approaches to problems in data science
     - Spatio-temporal analysis
     - Multivariate statistics
@@ -25,7 +25,7 @@ Welcome! I am **Srikanth Komala Sheshachala**
 - **Frameworks**: 
 
     - [Spark](https://spark.apache.org/) (via [Sparklyr](https://spark.rstudio.com/) / [pyspark](https://spark.apache.org/docs/latest/api/python/) / [spark SQL](https://spark.apache.org/sql/))
-    - Deep Learning: [Tensorflow](https://www.tensorflow.org/) and ([keras](https://keras.io/))
+    - Deep Learning: [Tensorflow](https://www.tensorflow.org/) and [keras](https://keras.io/)
     - Machine Learning: [scikit-learn](https://scikit-learn.org/stable/), [tidymodels](https://www.tidymodels.org/), [h2o](https://www.h2o.ai/products/h2o/)
     - Optimization: [pyomo](http://www.pyomo.org/) and [ROI](http://roi.r-forge.r-project.org/index.html)
     
