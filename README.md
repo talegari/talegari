@@ -16,7 +16,7 @@ Welcome! I am **Srikanth Komala Sheshachala**
      
 - **Day Job**: Staff Data Scientist at [Walmart Gobal Tech, India](https://one.walmart.com/content/globaltechindia/en_in/about-us.html). 
 
-Previously, I have worked with [Olacabs(https://www.olacabs.com/), [DISH corporation](https://www.dish.com/), Diet Code, [Cognizant](https://www.cognizant.com/), [Infosys](https://www.infosys.com/), ...
+Previously, I have worked with [Olacabs](https://www.olacabs.com/), [DISH corporation](https://www.dish.com/), Diet Code, [Cognizant](https://www.cognizant.com/), [Infosys](https://www.infosys.com/), ...
 
 - **Coding**: 
 
