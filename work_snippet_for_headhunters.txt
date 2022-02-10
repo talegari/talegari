@@ -2,7 +2,7 @@ name               : Srikanth KS
 exp_overall        : 11y 11m
 exp_data_science   : 7y 7m
 exp_other          : 4y 4m
-current_position   : Staff Data Scientist, Walmart Glbal Tech, India
+current_position   : Staff Data Scientist, Walmart Global Tech, India
 hands_on_technical : Yes
 previous_companies : Olacabs, DISH, Diet Code, Cognizant, Infosys
 skillset           : data science, machine learning, statistics, deep learning
