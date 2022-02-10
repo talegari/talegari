@@ -1,14 +1,19 @@
 name               : Srikanth KS
-exp_overall        : 11y 3m
-exp_data_science   : 6y 11m
+exp_overall        : 11y 11m
+exp_data_science   : 7y 7m
 exp_other          : 4y 4m
 current_position   : Staff Data Scientist, Walmart Glbal Tech, India
 hands_on_technical : Yes
 previous_companies : Olacabs, DISH, Diet Code, Cognizant, Infosys
 skillset           : data science, machine learning, statistics, deep learning
-specialization     : Marketing Data Science (LTV, churn models, Offers optimization), Optimization (Operations Research),AB tests and inference, Recommender systems at scale, geospatial analysis, interpretable and causal machine learning
+specialization     : Interpretable Machine learning and a bit of Causal Learning,
+                     Marketing Data Science (LTV, churn models, Offers optimization),
+                     AB tests, Bandits and inference,
+                     Optimization (Operations Research),
+                     Recommender systems,
+                     Geospatial analysis
 linkedin           : https://www.linkedin.com/in/srikanthks01/
 github             : https://github.com/talegari
 current_location   : Bangalore, India
 email              : sri <dot> teach <at> gmail <dot> com
-date_updated       : 2021-05-09
+date_updated       : 2022-02-10
