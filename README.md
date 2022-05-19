@@ -34,7 +34,7 @@ Previously, I have worked with [Olacabs](https://www.olacabs.com/), [DISH corpor
     
 - **Work**: I contribute to open source repositories. Author and maintainer of these software: 
   
-  - [tidypandas](https://github.com/talegari/tidypandas) -- (in-dev) A dplyr like API for pandas
+  - [tidypandas](https://github.com/talegari/tidypandas) -- A dplyr like API for pandas
   - [tidyrules](https://github.com/talegari/tidyrules) -- Rules as tidy dataframes from rule based models like C50, Cubist, rpart
   - [solitude](https://github.com/talegari/solitude) -- An implementation of isolation forest
   - [safer](https://github.com/talegari/safer) -- A consistent interface to encrypt and decrypt strings, R objects, files 
