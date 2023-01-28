@@ -26,10 +26,8 @@ Welcome! I am **Srikanth Komala Sheshachala**
   - [solitude](https://github.com/talegari/solitude) -- An implementation of isolation forest
   - [safer](https://github.com/talegari/safer) -- A consistent interface to encrypt and decrypt strings, R objects, files 
   - [disto](https://github.com/talegari/disto) -- Unified Interface for Distances Matrices in R
-  - ...
-
-- I maintain these collections: 
   - [Notes in Statistical Learning, Machine learning and Data Science](https://github.com/talegari/statsLearningNotes)
+  - ...
   
  Drop me a message: gmail sri.teach, [linkedin](https://www.linkedin.com/in/srikanthks01/) srikanthks01, [stackoverflow](https://stackoverflow.com/users/5638196/talegari)
  
