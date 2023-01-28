@@ -15,21 +15,9 @@ Welcome! I am **Srikanth Komala Sheshachala**
     - Geospatial analysis / services
     - ...
      
-- **Day Job**: Senior manager (data scientist) at [Walmart Gobal Tech, India](https://one.walmart.com/content/globaltechindia/en_in/about-us.html). 
+- **Day Job**: Senior manager (data scientist) at [Walmart Gobal Tech, India](https://one.walmart.com/content/globaltechindia/en_in/about-us.html). Previously, [Olacabs](https://www.olacabs.com/), [DISH corporation](https://www.dish.com/), Diet Code, [Cognizant](https://www.cognizant.com/), [Infosys](https://www.infosys.com/), ...
 
-Previously, I have worked with [Olacabs](https://www.olacabs.com/), [DISH corporation](https://www.dish.com/), Diet Code, [Cognizant](https://www.cognizant.com/), [Infosys](https://www.infosys.com/), ...
-
-- **Coding**: 
-
-    - [Python](https://www.python.org/), [R](https://www.r-project.org/), sprinking of C++
- 
-- **Frameworks**: 
-
-    - [Spark](https://spark.apache.org/) (via [Sparklyr](https://spark.rstudio.com/) / [pyspark](https://spark.apache.org/docs/latest/api/python/) / [spark SQL](https://spark.apache.org/sql/))
-    - Deep Learning: [pytorch](https://pytorch.org/), [torch for R](https://torch.mlverse.org/), [keras](https://keras.io/)
-    - Machine Learning: [scikit-learn](https://scikit-learn.org/stable/), [mlr3](https://mlr3.mlr-org.com/), [tidymodels](https://www.tidymodels.org/), [h2o](https://www.h2o.ai/products/h2o/)
-    - Optimization: [pyomo](http://www.pyomo.org/), [ROI](http://roi.r-forge.r-project.org/index.html)
-    
+- **Coding**: [Python](https://www.python.org/), [R](https://www.r-project.org/), sprinking of C++    
     
 - **Contributions**: Author and maintainer of these open source projects: 
   
