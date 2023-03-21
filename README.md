@@ -22,6 +22,7 @@ Welcome! I am **Srikanth Komala Sheshachala**
 - **Contributions**: Author and maintainer of these open source projects: 
   
   - [tidypandas](https://github.com/talegari/tidypandas) -- A dplyr like API for pandas
+  - [tidypyspark](https://github.com/talegari/tidypyspark) -- make pyspark sing dplyr
   - [tidyrules](https://github.com/talegari/tidyrules) -- Rules as tidy dataframes from rule based models like C50, Cubist, rpart
   - [solitude](https://github.com/talegari/solitude) -- An implementation of isolation forest
   - [safer](https://github.com/talegari/safer) -- A consistent interface to encrypt and decrypt strings, R objects, files 
