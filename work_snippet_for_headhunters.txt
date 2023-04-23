@@ -1,6 +1,6 @@
 name               : Srikanth KS
-exp_overall        : 12y 11m
-exp_data_science   : 8y 3m
+exp_overall        : 13y 1m
+exp_data_science   : 8y 6m
 exp_other          : 4y 4m
 current_position   : Senior Manager (Data Scientist), Walmart Global Tech, India
 hands_on_technical : Yes
@@ -11,10 +11,10 @@ specialization     : Causal Inference,
                      Marketing Data Science (LTV, churn models, Offers optimization),
                      AB tests, Bandits and inference,
                      Optimization (Operations Research),
-                     Recommender systems,
+                     Recommender systems and Personalization,
                      Geospatial analysis / services
 linkedin           : https://www.linkedin.com/in/srikanthks01/
 github             : https://github.com/talegari
 current_location   : Bangalore, India
 email              : sri <dot> teach <at> gmail <dot> com
-date_updated       : 2023-01-28
+date_updated       : 2023-04-23
