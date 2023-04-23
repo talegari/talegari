@@ -1,6 +1,6 @@
 name               : Srikanth KS
-exp_overall        : 13y 1m
-exp_data_science   : 8y 6m
+exp_overall        : 13y 3m
+exp_data_science   : 8y 11m
 exp_other          : 4y 4m
 current_position   : Senior Manager (Data Scientist), Walmart Global Tech, India
 hands_on_technical : Yes
