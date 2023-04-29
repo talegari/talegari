@@ -22,6 +22,7 @@ Previously, [Olacabs](https://www.olacabs.com/), [DISH corporation](https://www.
   
   - [tidypandas](https://github.com/talegari/tidypandas) -- A dplyr like API for pandas
   - [tidypyspark](https://github.com/talegari/tidypyspark) -- make pyspark sing dplyr
+  - [tidier](https://cran.r-project.org/web/packages/tidier/index.html) -- Apache Spark style window aggregations for R dataframes
   - [tidyrules](https://github.com/talegari/tidyrules) -- Rules as tidy dataframes from rule based models like C50, Cubist, rpart
   - [solitude](https://github.com/talegari/solitude) -- An implementation of isolation forest
   - [safer](https://github.com/talegari/safer) -- A consistent interface to encrypt and decrypt strings, R objects, files 
