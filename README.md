@@ -2,7 +2,7 @@ Welcome! I am **Srikanth Komala Sheshachala**
 
 > - [linkedin profile](https://www.linkedin.com/in/srikanthks01)
 > - [Short profile for recruiters](https://raw.githubusercontent.com/talegari/talegari/main/work_snippet_for_headhunters.txt)
-> - [Download CV / Resume](http://bit.ly/cv_srikanthks)
+> - [Download CV / Resume](https://github.com/talegari/talegari/blob/main/srikanth_resume.pdf)
 
 - **Interests**: 
     - Causal inference
