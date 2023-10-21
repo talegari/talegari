@@ -1,0 +1,92 @@
+---
+title: ""
+subtitle: ""
+format: pdf
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Srikanth KS
+### **[Data Science Professional]{.smallcaps}** -- *A leader with hands-on technical expertise*
+
+> Total YOE: `13 years and 9 months`  
+> Total DS YOE: `9 years and 5 months`  
+> Phone: `+91 89045 31176`  
+> Email: `sri.teach@gmail.com`  
+> Linkedin: [`https://www.linkedin.com/in/srikanthks01/`](https://www.linkedin.com/in/srikanthks01/)  
+> Github: [`http://github.com/talegari`](http://github.com/talegari)
+
+## Summary
+
+- *Data Science, Causal inference, Predictive modeling, Machine learning, Deep learning, Artificial Intelligence* with a background in *Applied mathematics, Statistics and Optimization*.
+
+- At [Walmart](https://tech.walmart.com/content/walmart-global-tech/en_us.html): Established disciplines, architected data science pipelines, built models at scale in Retail areas such as *Merchandising, Assortment, Personalization, Advertising platform, Supply-chain, [Forecasting](https://tech.Walmart.com/content/Walmart-global-tech/en_us/news/articles/centralized-forecasting-service.html) and Transportation* at Walmart alongside working with multiple stakeholders, cross-functional teams. Managed a team of data scientists, UI/UX developers and Engineering folks.
+
+- At [OLACabs](https://www.olacabs.com/): Created [feature store](https://medium.com/@TechAtOla/why-and-how-we-built-a-feature-store-at-ola-5a3c9ae1969b) (using Spark), *real-time inference systems* based on geo-spatial data, built the AI around CLM strategy (Customer Lifecycle Management), extensively devised algorithms for *customer pickup experience"* at OLA. Managed a diverse team of data scientists.
+
+- At [Dish](https://www.dish.com/): Setup AB testing framework for ideal customer offers and discounts, churn and CLV models for DISH Corporation/Sling Media.
+
+- Implemented various Recommender Systems for News for [Newscase](https://www.newscase.com/) at Diet Code, Retail products for [Big Basket](https://www.bigbasket.com/) and Movie Recommendations for [Book My Show](https://in.bookmyshow.com/) at [Majorel](https://www.majorel.com/).
+
+- Avid open-source contributor: (Author / Maintainer) of [`tidypandas`](https://pypi.org/project/tidypandas/), [`tidypyspark`](https://pypi.org/project/tidypyspark/), [`tidier`](https://cran.r-project.org/package=tidier), [`solitude`](https://cran.r-project.org/package=solitude), [`tidyrules`](https://cran.r-project.org/package=tidyrules), [`disto`](https://cran.r-project.org/package=disto),
+[`bigdist`](https://cran.r-project.org/package=bigdist),
+[`pkggraph`](https://cran.r-project.org/package=pkggraph),
+[`slimrec`](https://cran.r-project.org/package=slimrec),
+[`safer`](https://cran.r-project.org/package=safer),
+[`ggisotonic`](https://cran.r-project.org/package=ggisotonic) along with many internal packages inside the organizations.
+
+- Presented at conferences including Walmart AI summit 2023, PyData conf 2022.
+
+## Education
+
+[Masters in Applied Mathematics](http://mathstat.uohyd.ac.in/programmes-offered-school) (2010-14)  
+[University of Hyderabad](https://uohyd.ac.in/) (Central University of Hyderabad)
+
+## Work Experience (recent)
+
+1. [**Walmart Global Tech, Bangalore**]{.underline} -- Senior Manager, Staff Data Scientist   
+*Apr 2021 - Present | Bangalore | Team Size: 14*
+
+  - **Leadership**
+    - Mentored multiple teams (total 10) each with 3-4 members, providing stakeholder management, technical guidance, and hands-on development.
+    - Presented and organized 'Walmart AI Summit 2023', 'Data Science Gems', and multiple initiatives at the Walmart IDC org level.
+
+  - **Technical**
+      - **Macrospace:** Built an automated system to create space elasticity curves (x: space allocated to an item category (collection of items), y: Expected sales revenue / membership renewal for a future time period) using causal ML and an optimization layer to suggest a space allocation for the future per store. Implemented as a mixed integer linear programming problem using Pyomo and solved with GLPK backend for real-time use by business team. This provided a lift of 2% in revenue over non-macro stores.
+      - **Markdown:** Predicting optimal futuristic start date for markdown (permanent price drop) for an item and store combo, weekly markdown rates and expected unit sales, correcting 'offtrack' markdowns, and suggesting corrected markdowns on-the-fly to maximize revenue using gradient boosting models and bayesian correction. Model setup provided a lift of ~20% in revenue over the existing manual (business logic) markdowns as part of a larger exit-optimization strategy.
+      - **Personalization:** Built item-substitution models (used when items go out-of-stock) using text features, item-based embeddings with nearly 100% coverage. Created a new algorithm for Reorder-you-essentials to brings more than 80\% increase in revenue.
+
+2. [**ANI Technologies Ltd (OLAcabs)**]{.underline} -- Technical Manager Data Science   
+*Mar 2020 - Mar 2021 | Bangalore | Team Size: 8*
+
+  - Established the data science process for CLM (Customer Lifecycle Management) strategy with LTV / CLV (Lifetime Value) models based on quantile regression.
+  - Forecasting number of rides based on multivariate time-series data using LSTMs.
+  - Developed the data science stack for customer pickup using individual and collaborative approaches based on local search in customer location isochrones and clustering of pickup locations. This involved batch update per customer and real time scoring system when a customer expressed interest to ride.
+  - Built a real-time system to detect the ride use-case (`commute, errands, transit, ...`) based on google's places data, time of the ride, place tags from OSM (open street maps) at granular geohash level. Helped the leadership in decision making given the changing usecases (specially during COVID peak time), helped in identifying 'likely to churn' customers and take preemptive steps.
+
+3. [**DISH Corporation**]{.underline} -- Lead Data Scientist  
+*Dec 2017 - Feb 2020 | Bangalore | Team Size: 10*
+
+  - **Setup the Data Science process** along with cross-functional teams of Data Engineering and Devops across geographies. Managed a team of 4-7 data scientists and maintained an internal R packages to reduce boilerplate code.
+  - **Created AB Testing Framework** and dashboard to experiment with offers for specific Customer sub-populations to quantify the business value. These on-field randomized control trials equipped the multiple marketing teams to understand the offers and changes that led to goals of increased acquisition, monetisation and retention. This involved building uplift models.
+  
+4. [**Diet Code**]{.underline} -- Chief Data Scientist  
+*Dec 2016 - Dec 2017 | Bangalore | Team Size: 3*
+
+  - Built various recommender engines to recommend news --Content recommender (based on named entity recognition and Jaccard coefficient), Graph recommender (based on item affinity using Katz distance), Collaborative filtering (matrix factorization for implicit feedback based on libmf and Spark). Recommendations were served in parallel over a dockerized linux server using opencpu.
+
+5. [**Cognizant**]{.underline} -- Data Scientist  
+*June 2016 - Dec 2016 | Bangalore | Team Size: 5*
+
+  - Built models and interpretable rules (from CART and C50 decision trees) for fraud detection in insurance claims.
+
+6. [**Majorel**]{.underline} -- Data Scientist  
+*Sep 2015 - June 2016 | Bangalore | Team Size: 4*
+
+ - Big Basket: Built a menu based item recommender using Association Rules (apriori or market basket analysis).
+ - Bookmyshow: Built a propensity score based content-based recommender system using movie metadata (Genre, Budget, Director, Actors, ...) to provide top-n relevant users for upsell upcoming movies.
+ 
+----
+
+Last Updated: `21st oct 2023`
