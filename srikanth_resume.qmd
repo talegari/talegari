@@ -1,7 +1,14 @@
 ---
 title: ""
 subtitle: ""
-format: pdf
+format: 
+  pdf:
+    margin-left: 30pt
+    margin-right: 30pt
+    margin-top: 50pt
+    margin-bottom: 30pt
+    fontsize: 10pt
+date: "`r Sys.Date()`"
 editor: 
   markdown: 
     wrap: 72
@@ -19,7 +26,7 @@ editor:
 
 ## Summary
 
-- *Data Science, Causal inference, Predictive modeling, Machine learning, Deep learning, Artificial Intelligence* with a background in *Applied mathematics, Statistics and Optimization*.
+- *Data Science, Causal inference, Explainable AI and model interpretability, Predictive modeling, Machine learning, Deep learning, Artificial Intelligence* with a background in *Applied mathematics, Statistics and Optimization*.
 
 - At [Walmart](https://tech.walmart.com/content/walmart-global-tech/en_us.html): Established disciplines, architected data science pipelines, built models at scale in Retail areas such as *Merchandising, Assortment, Personalization, Advertising platform, Supply-chain, [Forecasting](https://tech.Walmart.com/content/Walmart-global-tech/en_us/news/articles/centralized-forecasting-service.html) and Transportation* at Walmart alongside working with multiple stakeholders, cross-functional teams. Managed a team of data scientists, UI/UX developers and Engineering folks.
 
@@ -34,7 +41,7 @@ editor:
 [`pkggraph`](https://cran.r-project.org/package=pkggraph),
 [`slimrec`](https://cran.r-project.org/package=slimrec),
 [`safer`](https://cran.r-project.org/package=safer),
-[`ggisotonic`](https://cran.r-project.org/package=ggisotonic) along with many internal packages inside the organizations.
+[`ggisotonic`](https://cran.r-project.org/package=ggisotonic) along with many internal packages within the companies.
 
 - Presented at conferences including Walmart AI summit 2023, PyData conf 2022.
 
@@ -51,11 +58,12 @@ editor:
   - **Leadership**
     - Mentored multiple teams (total 10) each with 3-4 members, providing stakeholder management, technical guidance, and hands-on development.
     - Presented and organized 'Walmart AI Summit 2023', 'Data Science Gems', and multiple initiatives at the Walmart IDC org level.
+    - Created a focused review group on model governance, data observability and managing model drift scenarios.
 
   - **Technical**
-      - **Macrospace:** Built an automated system to create space elasticity curves (x: space allocated to an item category (collection of items), y: Expected sales revenue / membership renewal for a future time period) using causal ML and an optimization layer to suggest a space allocation for the future per store. Implemented as a mixed integer linear programming problem using Pyomo and solved with GLPK backend for real-time use by business team. This provided a lift of 2% in revenue over non-macro stores.
+      - **Macrospace:** Built an automated system to create space elasticity curves (x: space allocated to an item category (collection of items), y: Expected sales revenue / membership renewal for a future time period) using causal ML and an optimization layer to suggest a space allocation for the future per store. Implemented as a mixed integer linear programming problem using Pyomo and solved with GLPK backend for real-time use by business team. This provided a lift of 2% in revenue over non-macro stores. This interpretable solution lead to adoption of this methodology in other projects across Walmart.
       - **Markdown:** Predicting optimal futuristic start date for markdown (permanent price drop) for an item and store combo, weekly markdown rates and expected unit sales, correcting 'offtrack' markdowns, and suggesting corrected markdowns on-the-fly to maximize revenue using gradient boosting models and bayesian correction. Model setup provided a lift of ~20% in revenue over the existing manual (business logic) markdowns as part of a larger exit-optimization strategy.
-      - **Personalization:** Built item-substitution models (used when items go out-of-stock) using text features, item-based embeddings with nearly 100% coverage. Created a new algorithm for Reorder-you-essentials to brings more than 80\% increase in revenue.
+      - **Personalization:** Built item-substitution models (used when items go out-of-stock) using text features, item-based embeddings with nearly 100% coverage. Item embeddings were generated at scale using metric learning approach with triplet loss over a siamese network implemented using pytorch. Created a new algorithm for Reorder-you-essentials to brings more than 80\% increase in revenue.
 
 2. [**ANI Technologies Ltd (OLAcabs)**]{.underline} -- Technical Manager Data Science   
 *Mar 2020 - Mar 2021 | Bangalore | Team Size: 8*
@@ -70,6 +78,7 @@ editor:
 
   - **Setup the Data Science process** along with cross-functional teams of Data Engineering and Devops across geographies. Managed a team of 4-7 data scientists and maintained an internal R packages to reduce boilerplate code.
   - **Created AB Testing Framework** and dashboard to experiment with offers for specific Customer sub-populations to quantify the business value. These on-field randomized control trials equipped the multiple marketing teams to understand the offers and changes that led to goals of increased acquisition, monetisation and retention. This involved building uplift models.
+  - **Churn models**: Created rule-based *interpretable* churn model on imbalanced data (class imbalance) to early detection of churn.
   
 4. [**Diet Code**]{.underline} -- Chief Data Scientist  
 *Dec 2016 - Dec 2017 | Bangalore | Team Size: 3*
@@ -89,4 +98,4 @@ editor:
  
 ----
 
-Last Updated: `21st oct 2023`
+Last Updated: `2023-11-03`
