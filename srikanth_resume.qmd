@@ -7,7 +7,7 @@ format:
     margin-right: 30pt
     margin-top: 50pt
     margin-bottom: 30pt
-    fontsize: 10pt
+    fontsize: 9pt
 date: "`r Sys.Date()`"
 editor: 
   markdown: 
@@ -25,24 +25,18 @@ editor:
 > Github: [`http://github.com/talegari`](http://github.com/talegari)
 
 ## Summary
-
-- *Data Science, Causal inference, Explainable AI and model interpretability, Predictive modeling, Machine learning, Deep learning, Artificial Intelligence* with a background in *Applied mathematics, Statistics and Optimization*.
-
+>
+- *Data Science, Causal inference, Explainable AI and model interpretability, Predictive modeling, Machine learning, Deep learning, Artificial Intelligence, recommender systems* with a background in *Applied mathematics, Statistics and Optimization*.
 - At [Walmart](https://tech.walmart.com/content/walmart-global-tech/en_us.html): Established disciplines, architected data science pipelines, built models at scale in Retail areas such as *Merchandising, Assortment, Personalization, Advertising platform, Supply-chain, [Forecasting](https://tech.Walmart.com/content/Walmart-global-tech/en_us/news/articles/centralized-forecasting-service.html) and Transportation* at Walmart alongside working with multiple stakeholders, cross-functional teams. Managed a team of data scientists, UI/UX developers and Engineering folks.
-
 - At [OLACabs](https://www.olacabs.com/): Created [feature store](https://medium.com/@TechAtOla/why-and-how-we-built-a-feature-store-at-ola-5a3c9ae1969b) (using Spark), *real-time inference systems* based on geo-spatial data, built the AI around CLM strategy (Customer Lifecycle Management), extensively devised algorithms for *customer pickup experience"* at OLA. Managed a diverse team of data scientists.
-
 - At [Dish](https://www.dish.com/): Setup AB testing framework for ideal customer offers and discounts, churn and CLV models for DISH Corporation/Sling Media.
-
 - Implemented various Recommender Systems for News for [Newscase](https://www.newscase.com/) at Diet Code, Retail products for [Big Basket](https://www.bigbasket.com/) and Movie Recommendations for [Book My Show](https://in.bookmyshow.com/) at [Majorel](https://www.majorel.com/).
-
 - Avid open-source contributor: (Author / Maintainer) of [`tidypandas`](https://pypi.org/project/tidypandas/), [`tidypyspark`](https://pypi.org/project/tidypyspark/), [`tidier`](https://cran.r-project.org/package=tidier), [`solitude`](https://cran.r-project.org/package=solitude), [`tidyrules`](https://cran.r-project.org/package=tidyrules), [`disto`](https://cran.r-project.org/package=disto),
 [`bigdist`](https://cran.r-project.org/package=bigdist),
 [`pkggraph`](https://cran.r-project.org/package=pkggraph),
 [`slimrec`](https://cran.r-project.org/package=slimrec),
 [`safer`](https://cran.r-project.org/package=safer),
 [`ggisotonic`](https://cran.r-project.org/package=ggisotonic) along with many internal packages within the companies.
-
 - Presented at conferences including Walmart AI summit 2023, PyData conf 2022.
 
 ## Education
@@ -64,6 +58,7 @@ editor:
       - **Macrospace:** Built an automated system to create space elasticity curves (x: space allocated to an item category (collection of items), y: Expected sales revenue / membership renewal for a future time period) using causal ML and an optimization layer to suggest a space allocation for the future per store. Implemented as a mixed integer linear programming problem using Pyomo and solved with GLPK backend for real-time use by business team. This provided a lift of 2% in revenue over non-macro stores. This interpretable solution lead to adoption of this methodology in other projects across Walmart.
       - **Markdown:** Predicting optimal futuristic start date for markdown (permanent price drop) for an item and store combo, weekly markdown rates and expected unit sales, correcting 'offtrack' markdowns, and suggesting corrected markdowns on-the-fly to maximize revenue using gradient boosting models and bayesian correction. Model setup provided a lift of ~20% in revenue over the existing manual (business logic) markdowns as part of a larger exit-optimization strategy.
       - **Personalization:** Built item-substitution models (used when items go out-of-stock) using text features, item-based embeddings with nearly 100% coverage. Item embeddings were generated at scale using metric learning approach with triplet loss over a siamese network implemented using pytorch. Created a new algorithm for Reorder-you-essentials to brings more than 80\% increase in revenue.
+      - **AD Ranking and recommendations**: Created a ranking service as a part of Sam's club(Walmart) AD platform, to reorder sponsored advertisements with the objective to maximize cost-per-click (CPC) on real-time bid-winning ADs, across omni-channel (web / app / mweb). Unbiased learning to rank using two-tower architecture was implemented.
 
 2. [**ANI Technologies Ltd (OLAcabs)**]{.underline} -- Technical Manager Data Science   
 *Mar 2020 - Mar 2021 | Bangalore | Team Size: 8*
