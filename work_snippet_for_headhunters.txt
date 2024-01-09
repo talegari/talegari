@@ -1,6 +1,6 @@
 name               : Srikanth KS
-exp_overall        : 13y 9m
-exp_data_science   : 9y 5m
+exp_overall        : 14y 1m
+exp_data_science   : 9y 7m
 exp_other          : 4y 4m
 current_position   : Senior Manager (Data Scientist), Walmart Global Tech, India
 hands_on_technical : Yes
@@ -17,4 +17,4 @@ linkedin           : https://www.linkedin.com/in/srikanthks01/
 github             : https://github.com/talegari
 current_location   : Bangalore, India
 email              : sri <dot> teach <at> gmail <dot> com
-date_updated       : 2023-10-21
+date_updated       : 2024-01-09
