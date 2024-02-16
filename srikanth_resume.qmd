@@ -68,6 +68,8 @@ editor:
     
     - **Markdown:** Predicting optimal futuristic start date for markdown (permanent price drop) for an item and store combo, weekly markdown rates and expected unit sales, correcting 'offtrack' markdowns, and suggesting corrected markdowns on-the-fly to maximize revenue using gradient boosting models and bayesian correction. Model setup provided a lift of ~20% in revenue over the existing manual (business logic) markdowns as part of a larger exit-optimization strategy. A causal inference model based on doubleML was developed later to estimate CATE (conditional average treatment effect).
 
+    - **Pricing:** Developed a methodology to price new items and suggest price changes for existing items based on elasticity curves based on causal inference. Conditional average treatement effect of price change was modeled using many exogenous variables with price change as the treatment. Similar items were considered to understand cannibalization effect. The production system involved a multi-armed bandit to test and analyse various heuristics.
+
 
 2. [**ANI Technologies Ltd (OLAcabs)**]{.underline} -- Technical Manager Data Science   
 *Mar 2020 - Mar 2021 | Bangalore | Team Size: 8*
@@ -102,4 +104,4 @@ editor:
  
 ----
 
-Last Updated: `2023-11-03`
+Last Updated: `2024-02-16`
