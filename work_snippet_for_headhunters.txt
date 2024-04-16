@@ -1,20 +1,20 @@
 name               : Srikanth KS
-exp_overall        : 14y 1m
-exp_data_science   : 9y 7m
+exp_overall        : 14y 4m
+exp_data_science   : 10y
 exp_other          : 4y 4m
 current_position   : Senior Manager (Data Scientist), Walmart Global Tech, India
 hands_on_technical : Yes
 previous_companies : Olacabs, DISH Corp, Diet Code, Cognizant, Infosys
-skillset           : data science, machine learning, statistics, deep learning
+skillset           : data science, machine learning, statistics, analytics
 specialization     : Causal Inference, 
                      Interpretable Machine learning,
                      Marketing Data Science (LTV, churn models, Offers optimization),
                      AB tests, Bandits and inference,
                      Optimization (Operations Research),
                      Recommender systems and Personalization,
-                     Geospatial analysis / services
+                     Geospatial analysis / services,
 linkedin           : https://www.linkedin.com/in/srikanthks01/
 github             : https://github.com/talegari
 current_location   : Bangalore, India
 email              : sri <dot> teach <at> gmail <dot> com
-date_updated       : 2024-01-09
+date_updated       : 2024-04-16
