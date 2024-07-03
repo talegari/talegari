@@ -13,8 +13,8 @@ Welcome! I am **Srikanth Komala Sheshachala**
     - Geospatial analysis / services
     - Graph theoretic approaches to problems in data science
       
-- **Job**: Senior manager (data scientist) at [Walmart Gobal Tech, India](https://one.walmart.com/content/globaltechindia/en_in/about-us.html).  
-Previously, [Olacabs](https://www.olacabs.com/), [DISH corporation](https://www.dish.com/), Diet Code, [Cognizant](https://www.cognizant.com/), [Infosys](https://www.infosys.com/), ...
+- **Job**: Director (data scientist) at [Games24x7](https://www.games24x7.com/).  
+Previously, [Walmart](https://tech.walmart.com/content/walmart-global-tech/en_us.html), [Olacabs](https://www.olacabs.com/), [DISH corporation](https://www.dish.com/), Diet Code, [Cognizant](https://www.cognizant.com/), [Infosys](https://www.infosys.com/), ...
 
 - **Languages**: [Python](https://www.python.org/), [R](https://www.r-project.org/), sprinking of C++    
     
