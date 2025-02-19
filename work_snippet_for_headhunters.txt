@@ -1,10 +1,10 @@
 name               : Srikanth KS
-exp_overall        : 14y 4m
-exp_data_science   : 10y
-exp_other          : 4y 4m
-current_position   : Senior Manager (Data Scientist), Walmart Global Tech, India
+exp_overall        : 15y
+exp_data_science   : 10y 3 months
+exp_other          : 4y 9m
+current_position   : Director (Data Scientist), Games24x7, India
 hands_on_technical : Yes
-previous_companies : Olacabs, DISH Corp, Diet Code, Cognizant, Infosys
+previous_companies : Walmart, Olacabs, DISH Corp, Diet Code, Cognizant, Infosys
 skillset           : data science, machine learning, statistics, analytics
 specialization     : Causal Inference, 
                      Interpretable Machine learning,
@@ -17,4 +17,4 @@ linkedin           : https://www.linkedin.com/in/srikanthks01/
 github             : https://github.com/talegari
 current_location   : Bangalore, India
 email              : sri <dot> teach <at> gmail <dot> com
-date_updated       : 2024-04-16
+date_updated       : 2025-02-19
