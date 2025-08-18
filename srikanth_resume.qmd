@@ -12,13 +12,14 @@ date: "`r Sys.Date()`"
 editor: 
   markdown: 
     wrap: 72
+engine: knitr
 ---
 
 # Srikanth KS
 ### **[Data Science Professional]{.smallcaps}** -- *A leader with hands-on technical expertise*
 
-> Total YOE: `15 years`  
-> Total DS YOE: `10 years and 3 months`  
+> Total YOE: `15 years and 3 months`  
+> Total DS YOE: `11 years and 3 months`  
 > Phone: `+91 89045 31176`  
 > Email: `sri.teach@gmail.com`  
 > Linkedin: [`https://www.linkedin.com/in/srikanthks01/`](https://www.linkedin.com/in/srikanthks01/)  
@@ -27,43 +28,40 @@ editor:
 ## Summary
 >
 - *Data Science, Causal inference, Explainable AI and model interpretability, Predictive modeling, Machine learning, Deep learning, Artificial Intelligence, recommender systems* with a background in *Applied mathematics, Statistics and Optimization*.
-- At [Games24x7](https://www.games24x7.com/): Led efforts in prescriptive(causal) and predictive models for acquisiton, retention and spend optimization for RummyCircle and My11circle. 
-- At [Walmart](https://tech.walmart.com/content/walmart-global-tech/en_us.html): Established disciplines as a data science leader, architected data science pipelines, built models at scale in Retail areas such as *Merchandising, Assortment, Personalization, Advertising platform, Supply-chain, [Forecasting](https://tech.Walmart.com/content/Walmart-global-tech/en_us/news/articles/centralized-forecasting-service.html) and Transportation* alongside working with multiple stakeholders, cross-functional teams. Managed a team of data scientists, UI/UX developers, ML engineers and DevOps engineers.
-- At [OLACabs](https://www.olacabs.com/): Created [feature store](https://medium.com/@TechAtOla/why-and-how-we-built-a-feature-store-at-ola-5a3c9ae1969b) (using Spark), *real-time inference systems* based on geo-spatial data, built the AI around CLM strategy (Customer Lifecycle Management), extensively devised algorithms for *customer pickup experience"* at OLA. Managed a diverse team of data scientists.
-- At [Dish](https://www.dish.com/): Setup AB testing framework for ideal customer offers and discounts, churn and CLV models for DISH Corporation/Sling Media.
-- Implemented various Recommender Systems for News for [Newscase](https://www.newscase.com/) at Diet Code, Retail products for [Big Basket](https://www.bigbasket.com/) and Movie Recommendations for [Book My Show](https://in.bookmyshow.com/) at [Majorel](https://www.majorel.com/).
+- At [Games24x7](https://www.games24x7.com/): Led efforts in prescriptive(causal), predictive models, gameplay simlulations and spend optimization for acquisiton, retention and spend optimization for [RummyCircle](https://www.rummycircle.com/) and [My11circle](https://www.my11circle.com/). (Domain: `RMG` -- Real money gaming).
+- At [Walmart](https://tech.walmart.com/content/walmart-global-tech/en_us.html): Established disciplines as a data science leader, architected data science pipelines, built models at scale in Retail areas such as *Merchandising, Assortment, Personalization, Advertising platform, Supply-chain, [Forecasting](https://tech.Walmart.com/content/Walmart-global-tech/en_us/news/articles/centralized-forecasting-service.html) and Transportation* alongside working with multiple stakeholders, cross-functional teams. Managed a team of data scientists, UI/UX developers, ML engineers and DevOps engineers. (Domain: `retail`).
+- At [OLACabs](https://www.olacabs.com/): Created [feature store](https://medium.com/@TechAtOla/why-and-how-we-built-a-feature-store-at-ola-5a3c9ae1969b) (using Spark), *real-time inference systems* based on geo-spatial data, built the AI around CLM strategy (Customer Lifecycle Management), extensively devised algorithms for *customer pickup experience"* at OLA. Managed a diverse team of data scientists. (Domain: `mobility`, `marketplace` , `delivery`)
+- At [Dish](https://www.dish.com/): Setup AB testing framework for ideal customer offers and discounts, churn and CLV models for DISH Corporation/Sling Media. (Domain: telecommunications, entertainment)
+- Implemented various Recommender Systems for News for [Newscase](https://www.newscase.com/) at Diet Code, Retail products for [Big Basket](https://www.bigbasket.com/) and Movie Recommendations for [Book My Show](https://in.bookmyshow.com/) at [Majorel](https://www.majorel.com/). (Domain: CRM)
 - Avid open-source contributor: (Author / Maintainer) of [`tidypandas`](https://pypi.org/project/tidypandas/), [`tidypyspark`](https://pypi.org/project/tidypyspark/), [`tidier`](https://cran.r-project.org/package=tidier),
 [`writer`](https://cran.r-project.org/package=writer),
 [`solitude`](https://cran.r-project.org/package=solitude), [`tidyrules`](https://cran.r-project.org/package=tidyrules), [`disto`](https://cran.r-project.org/package=disto),
-[`bigdist`](https://cran.r-project.org/package=bigdist),
 [`pkggraph`](https://cran.r-project.org/package=pkggraph),
 [`slimrec`](https://cran.r-project.org/package=slimrec),
 [`safer`](https://cran.r-project.org/package=safer),
 [`ggisotonic`](https://cran.r-project.org/package=ggisotonic) along with many internal packages within the companies.
-- Presented at conferences including Walmart AI summit 2023, PyData conf 2022.
+- Other things: 2nd place winner at Novartis [Datathon](https://godatathon.com/) 2024, Presented at conferences including Walmart AI summit 2023, PyData conf 2022.
 
 ## Education
 
-[Masters in Applied Mathematics](http://mathstat.uohyd.ac.in/programmes-offered-school) (2010-14)  
-[University of Hyderabad](https://uohyd.ac.in/) (Central University of Hyderabad)
+[Masters in Applied Mathematics](http://mathstat.uohyd.ac.in/programmes-offered-school) (2010-14) from [University of Hyderabad](https://uohyd.ac.in/) (Central University of Hyderabad)
 
 ## Work Experience (recent)
 
 0. [**Games24x7, Bangalore**]{.underline} -- Director, Data Science   
-*July 2024 - Present | Bangalore | Team Size: 20*
+*July 2024 - Present | Bangalore | Team Size: 12*
   
   - **Leadership**:
   
     - Planning and delivery of data science projects in a fast-changing environment with quintessential stakeholder management.
-    - Handling tight situations during high profile events such as IPL, World cups from both scaling datascience backends and people management perspective.
+    - Handling tight situations during high profile events such as IPL, World cups from both scaling data science backends and people management perspective.
     - Managing people managers.
   
   - **Technical**:
   
-    - Experimental designs such as geo-switchback experiments, diff-in-diff to measure campain effectiveness and estimate treatment effects.
-    - Causal models such as uplift models to optimize offer and discount spends at end-customer level.
-    - Market mix modeling and forecasts at acqusition channel level to optimize spends.
-    - 'win-o-meter' during live matches based on player history, Estimating contest sizes and many more.
+    - *Causal Inference and Experimentation*: Experimental designs such as geo-switchback experiments, diff-in-diff to measure campaign effectiveness, estimate treatment effects, uplift models to target appropriate audience.
+    - *Game play simulation*: Computing ball-by-call to probable team score based on Bayesian updates with increasing information as the game progresses. This powers features such as live updation of `win-o-meter`, Probable rank and expected payout during the Cricket match.
+    - [Estimation and Optimization]: Market mix modeling and forecasts at acquisition channel level to optimize spends over hierarchy of geography and event-nonevent periods.
 
 1. [**Walmart Global Tech, Bangalore**]{.underline} -- Senior Manager, Staff Data Scientist   
 *Aug 2022 - June 2024 | Bangalore | Team Size: 14*
@@ -115,8 +113,8 @@ editor:
 6. [**Majorel**]{.underline} -- Data Scientist  
 *Sep 2015 - June 2016 | Bangalore | Team Size: 4*
 
-Prior work experince in Infosys as Mathematical Analyst, Teaching for IITJEE aspirants.
+Prior work experience in Infosys as Mathematical Analyst, Teaching for IITJEE aspirants.
 
 ----
 
-Last Updated: `2025-02-19`
+Last Updated: `r Sys.Date()`
