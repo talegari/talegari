@@ -1,7 +1,7 @@
 name               : Srikanth KS
-exp_overall        : 15y
-exp_data_science   : 10y 3 months
-exp_other          : 4y 9m
+exp_overall        : 15y 3m
+exp_data_science   : 11y 3m
+exp_other          : 4y
 current_position   : Director (Data Scientist), Games24x7, India
 hands_on_technical : Yes
 previous_companies : Walmart, Olacabs, DISH Corp, Diet Code, Cognizant, Infosys
@@ -17,4 +17,4 @@ linkedin           : https://www.linkedin.com/in/srikanthks01/
 github             : https://github.com/talegari
 current_location   : Bangalore, India
 email              : sri <dot> teach <at> gmail <dot> com
-date_updated       : 2025-02-19
+date_updated       : 2025-08-18
