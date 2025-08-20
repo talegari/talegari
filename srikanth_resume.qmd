@@ -61,7 +61,7 @@ engine: knitr
   
     - *Causal Inference and Experimentation*: Experimental designs such as geo-switchback experiments, diff-in-diff to measure campaign effectiveness, estimate treatment effects, uplift models to target appropriate audience.
     - *Game play simulation*: Computing ball-by-call to probable team score based on Bayesian updates with increasing information as the game progresses. This powers features such as live updation of `win-o-meter`, Probable rank and expected payout during the Cricket match.
-    - [Estimation and Optimization]: Market mix modeling and forecasts at acquisition channel level to optimize spends over hierarchy of geography and event-nonevent periods.
+    - *Estimation and Optimization*: Market mix modeling and forecasts at acquisition channel level to optimize spends over hierarchy of geography and event-nonevent periods.
 
 1. [**Walmart Global Tech, Bangalore**]{.underline} -- Senior Manager, Staff Data Scientist   
 *Aug 2022 - June 2024 | Bangalore | Team Size: 14*
