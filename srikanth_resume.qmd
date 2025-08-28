@@ -16,35 +16,23 @@ engine: knitr
 ---
 
 # Srikanth KS
-### **[Data Science Professional]{.smallcaps}** -- *A leader with hands-on technical expertise*
-
-> Total YOE: `15 years and 3 months`  
-> Total DS YOE: `11 years and 3 months`  
-> Phone: `+91 89045 31176`  
-> Email: `sri.teach@gmail.com`  
-> Linkedin: [`https://www.linkedin.com/in/srikanthks01/`](https://www.linkedin.com/in/srikanthks01/)  
-> Github: [`http://github.com/talegari`](http://github.com/talegari)
+## **[Data Science Professional]{.smallcaps}** -- *A leader with hands-on technical expertise*
+### `+91 89045 31176` | `sri.teach@gmail.com` | linkedin.com/in/srikanthks01 | github.com/talegari
 
 ## Summary
 >
-- *Data Science, Causal inference, Explainable AI and model interpretability, Predictive modeling, Machine learning, Deep learning, Artificial Intelligence, recommender systems* with a background in *Applied mathematics, Statistics and Optimization*.
-- At [Games24x7](https://www.games24x7.com/): Led efforts in prescriptive(causal), predictive models, gameplay simlulations and spend optimization for acquisiton, retention and spend optimization for [RummyCircle](https://www.rummycircle.com/) and [My11circle](https://www.my11circle.com/). (Domain: `RMG` -- Real money gaming).
-- At [Walmart](https://tech.walmart.com/content/walmart-global-tech/en_us.html): Established disciplines as a data science leader, architected data science pipelines, built models at scale in Retail areas such as *Merchandising, Assortment, Personalization, Advertising platform, Supply-chain, [Forecasting](https://tech.Walmart.com/content/Walmart-global-tech/en_us/news/articles/centralized-forecasting-service.html) and Transportation* alongside working with multiple stakeholders, cross-functional teams. Managed a team of data scientists, UI/UX developers, ML engineers and DevOps engineers. (Domain: `retail`).
-- At [OLACabs](https://www.olacabs.com/): Created [feature store](https://medium.com/@TechAtOla/why-and-how-we-built-a-feature-store-at-ola-5a3c9ae1969b) (using Spark), *real-time inference systems* based on geo-spatial data, built the AI around CLM strategy (Customer Lifecycle Management), extensively devised algorithms for *customer pickup experience"* at OLA. Managed a diverse team of data scientists. (Domain: `mobility`, `marketplace` , `delivery`)
-- At [Dish](https://www.dish.com/): Setup AB testing framework for ideal customer offers and discounts, churn and CLV models for DISH Corporation/Sling Media. (Domain: telecommunications, entertainment)
-- Implemented various Recommender Systems for News for [Newscase](https://www.newscase.com/) at Diet Code, Retail products for [Big Basket](https://www.bigbasket.com/) and Movie Recommendations for [Book My Show](https://in.bookmyshow.com/) at [Majorel](https://www.majorel.com/). (Domain: CRM)
-- Avid open-source contributor: (Author / Maintainer) of [`tidypandas`](https://pypi.org/project/tidypandas/), [`tidypyspark`](https://pypi.org/project/tidypyspark/), [`tidier`](https://cran.r-project.org/package=tidier),
-[`writer`](https://cran.r-project.org/package=writer),
-[`solitude`](https://cran.r-project.org/package=solitude), [`tidyrules`](https://cran.r-project.org/package=tidyrules), [`disto`](https://cran.r-project.org/package=disto),
-[`pkggraph`](https://cran.r-project.org/package=pkggraph),
-[`slimrec`](https://cran.r-project.org/package=slimrec),
-[`safer`](https://cran.r-project.org/package=safer),
-[`ggisotonic`](https://cran.r-project.org/package=ggisotonic) along with many internal packages within the companies.
-- Other things: 2nd place winner at Novartis [Datathon](https://godatathon.com/) 2024, Presented at conferences including Walmart AI summit 2023, PyData conf 2022.
+- Seasoned Data Scientist (DS YOE: 11y-3m, Total YOE: 15y-3m) specialized in Causal inference, Explainable AI and model interpretability, Predictive modeling, Machine learning, Deep learning, Artificial Intelligence, recommender systems with a background in applied mathematics, Statistics and Optimization, LLMs and agentic AI.
+- At Games24x7: Led efforts in prescriptive(causal), predictive models, gameplay simlulations and spend optimization for acquisiton, retention and spend optimization for RummyCircle and My11circle. (Domain: `Gaming`).
+- At Walmart: Established disciplines as a data science leader, architected data science pipelines, built models at scale in Retail areas such as *Merchandising, Assortment, Personalization, Advertising platform, Supply-chain, Forecasting and Transportation* alongside working with multiple stakeholders, cross-functional teams. Managed a team of data scientists, UI/UX developers, ML engineers and DevOps engineers. (Domain: `retail`).
+- At OLACabs: , *real-time inference systems* based on geo-spatial data, built the AI around CLM strategy (Customer Lifecycle Management), extensively devised algorithms for *customer pickup experience"* at OLA. Created feature store. Managed a diverse team of data scientists. (Domain: `mobility`, `marketplace` , `delivery`)
+- At Dish: Setup AB testing framework for ideal customer offers and discounts, churn and CLV models for DISH Corporation/Sling Media. (Domain: `telecommunications`, `entertainment`)
+- Implemented various Recommender Systems for News for Newscase at Diet Code, Retail products for Big Basket and Movie Recommendations for Book My Show at Majorel. (Domain: CRM)
+- Open-source contributor: (Author / Maintainer) of `tidypandas`, `tidypyspark`, `tidier`, `writer`, `solitude`, `tidyrules`, `disto`, `pkggraph`, `slimrec`, `safer`, `ggisotonic` along with many internal packages within the companies.
+- Other things: 2nd place winner at Novartis Datathon 2024, Presented at conferences including Walmart AI summit 2023, PyData conf 2022.
 
-> **Education**: [Masters in Applied Mathematics](http://mathstat.uohyd.ac.in/programmes-offered-school) (2010-14) from [University of Hyderabad](https://uohyd.ac.in/) (Central University of Hyderabad)
+> **Education**: [Masters in Applied Mathematics](http://mathstat.uohyd.ac.in/programmes-offered-school) (2010-12) from [University of Hyderabad](https://uohyd.ac.in/) (Central University of Hyderabad)
 
-## Work Experience (recent)
+## Work Experience
 
 0. [**Games24x7, Bangalore**]{.underline} -- Director, Data Science   
 *July 2024 - Present | Bangalore | Team Size: 12*
@@ -56,11 +44,11 @@ engine: knitr
     - Managing people managers.
   - **Technical**:
   
-    - *Causal Inference and Experimentation*: Experimental designs such as geo-switchback experiments, diff-in-diff to measure campaign effectiveness, estimate treatment effects, uplift models to target appropriate audience.
-    - *Game play simulation*: Computing ball-by-call to probable team score based on Bayesian updates with increasing information as the game progresses. This powers features such as live updation of `win-o-meter`, Probable rank and expected payout during the Cricket match.
-    - *Estimation and Optimization*: Market mix modeling and forecasts at acquisition channel level to optimize spends over hierarchy of geography and event-nonevent periods.
+    - *Causal inference and experimentation*: Designed experiments such as geo-switchback experiments and diff-in-diff to measure campaign effectiveness, estimate treatment effects, and develop uplift models to target the appropriate audience.
+    - *Game play Simulation*: Built a system to compute ball-by-call probabilities to team scores based on Bayesian updates with increasing information as the cricket match progresses. This powered features such as live updates of win-o-meter, probable rank, and expected payout during cricket matches. Various models were deployed for ELO-like skill score and matching, feed creation for expert teams.
+    - *Estimation and Optimization*: Developed market mix models and forecasts at the acquisition channel level to optimize spending over hierarchies of geography and event-nonevent periods.
 
-1. [**Walmart Global Tech, Bangalore**]{.underline} -- Senior Manager, Staff Data Scientist   
+1. [**Walmart Global Tech, Bangalore**]{.underline} -- Senior Manager
 *Aug 2022 - June 2024 | Bangalore | Team Size: 14*
 
   - **Leadership**
