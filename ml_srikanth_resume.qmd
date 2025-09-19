@@ -1,0 +1,126 @@
+---
+title: ""
+subtitle: ""
+format: 
+  typst:
+    papersize: a4
+    fontsize: 10pt
+    mainfont: Calibri
+    margin:
+      x: 2cm
+      y: 2cm
+      top: 3cm
+      bottom: 3cm
+editor: 
+  markdown: 
+    wrap: 72
+engine: knitr
+---
+
+# Srikanth KS
+[Hands-on Applied AI / ML Leader]{.smallcaps} 
+
+`+91 89045 31176`, `sri.teach@gmail.com`  
+`http://linkedin.com/in/srikanthks01`, `http://github.com/talegari`  
+
+----
+
+## Summary
+
+- **Seasoned Data/Decision Scientist** (DS YOE: 11y-3m, Total YOE: 15y-3m) specialized in `Causal Inference / machine learning`,  `Quasi-experimental designs`, `Interpretable machine learning`, `Experimentation (A/B testing, Bandits, Decision making around marketing campaigns)`, `Forecasting`, `Statistics`, `Optimization`, `Agentic workflows and finetuning Small / Large Language models (LLM)s`.
+
+- **Proven leadership experience** in building and leading teams with hands-on technical guidance across these domains: Gaming (`Games24x7`), Retail and Ecommerce (`Walmart`), Mobility and Marketplace (`OLACabs`), Telecom (`DISH Corp`), CRM (`Majorel`) and more.
+
+- **Open-source contributor**: `tidypandas`, `tidypyspark`, `tidier`, `writer`, `solitude`, `tidyrules`, `disto`, `pkggraph`, `slimrec`, `safer`, `ggisotonic` along with many internal python packages.
+
+- **Competitions / Conferences**: 2nd place winner at Novartis Datathon 2024, Speaker at ODSC 2024, Presented at conferences including Walmart AI summit 2023, PyData conf 2022.
+
+----
+
+## Work Experience
+
+- **Games24x7, Bangalore** -- [Director, Data Science]{.underline}  
+July 2024 - Present, Bangalore, Team Size: 12
+  
+  - **Leadership**
+  
+    - Prioritized, planned and delivered of data science projects in a fast-changing environment with quintessential stakeholder management for acquisition, retention and fraud efforts.
+    - Orchestrated data science back-end scaling and team logistics for high-traffic events, including IPL and World Cups. Maintained observability over business metrics, associated model metrics and underlying ML pipelines.
+    - Managed people managers and individual contributors.
+  
+  - **Technical**
+  
+    - *Personalization*: 
+      - Developed a real-time feed recommending new contests, expert teams, and videos to boost engagement. The architecture utilized a `two-tower recommender system` (player and item) trained on interaction data, with a custom model handling viral content in a `reranking` layer. For deployment, player `embeddings` were updated daily in batch via an ML pipeline. Item `embeddings` were generated on-the-fly as new items arrived. Upon player login, item candidates were generated, ranked, and pushed to the player's Kafka topic.
+      
+    - *Predictive modeling and experimentation*:
+      - Built a ML pipeline to predict expected revenue of the player for a match across contests to create downstream offerings such as lootzone. Features included user's historical financial capacity, outcomes in the last few games, characteristic of the upcoming games. *Model*: `Gradient boosting` (`Catboost`) followed with a `custom-loss` (ordinal loss penalized heavily for over-prediction).
+      
+      - Generic player embeddings learnt via `auto-encoders` and utilized for downstream ML models.
+      
+      - Deposit personalization modeling (quantile regression via `quantile forest`) and nudge modeling (nudging players for higher payment challenges) using different policies personalized via `contextual multi-armed bandits`.  
+      
+    - *Game play Simulation*: 
+      - Built a system to compute ball-by-ball probabilities to team scores based on Bayesian updates with increasing information as the cricket match progresses. This powered features such as live updates of win-o-meter, probable rank range, and expected payout during cricket matches.
+      - Developed ELO-like skill score and using `Bradley-Terry` models. This is essential to match users with similar skill.  
+      
+    - *AI*:
+      - Developed a workflow to provide post-game feedback for users to analyse their rummycircle game. One-shot methods to detect some fixed labels such as 'Breaking a pure sequence', 'Missing a drop' at each discard level. Later, `SFT` finetuning was implemented to fetch an overall feedback of the game.
+
+- **Walmart Global Tech, Bangalore** -- [Senior Manager]{.underline}  
+Aug 2022 - June 2024, Bangalore, Team Size: 14
+
+  - **Leadership**
+    - Architected data science pipelines, built models at scale in *Merchandising, Assortment, Personalization, Advertising platform, Supply-chain, Forecasting and Transportation* alongside working with multiple stakeholders, cross-functional teams.
+    - Mentored multiple teams (total 10) each with 3-4 members (data scientists, UI/UX developers, ML engineers and DevOps engineers), providing stakeholder management, technical guidance, and hands-on development.
+    - Created a focused review group on model governance, data observability and managing model drift scenarios.
+  
+  - **Technical**:
+  
+      - *AD Ranking and Recommendations*: Created a retrieval and ranking service as a part of Sam's club(Walmart) AD platform, to reorder sponsored advertisements with the objective to maximize cost-per-click (CPC) on real-time bid-winning ADs, across omni-channel (web / app / mweb) formulated as an linear optimization problem. Unbiased learning to rank using two-tower architecture was implemented. For item retrieval, sentence transformers were fine-tuned to 'learn' the Walmart online catalog using triplet loss over catalog and item descriptions.
+      
+      - *Personalization:* Built item-substitution models (used when items go out-of-stock) using text features. Item embeddings were generated at scale using metric learning approach with triplet loss over a siamese network implemented using pytorch. Created a new algorithm for Reorder-you-essentials to brings more than 4\% increase in reorder rate.
+
+- **Walmart GlobalTech** -- [Staff Data Scientist]{.underline}  
+Apr 2021 - July 2022, Bangalore, Team Size: 8
+
+  - *Space Optimization:* Built an automated system to create space elasticity curves (x: space allocated to an item category (collection of items), y: Expected sales revenue / membership renewal for a future time period) using causal ML and an optimization layer to suggest a space allocation for the future per store. Implemented as a mixed integer linear programming problem (MILP) using Pyomo(GLPK) for real-time use by business team. This provided a lift of 2% in revenue over non-macro stores.
+    
+  - *Markdown:* Predicting optimal futuristic start date for markdown (permanent price drop) for an item and store combo, weekly markdown rates and expected unit sales, correcting 'offtrack' markdowns, and suggesting corrected markdowns on-the-fly to maximize revenue using gradient boosting models and bayesian correction. Model setup provided a lift of ~20% in revenue over the existing manual (business logic) markdowns as part of a larger exit-optimization strategy. 
+  - *Pricing:* Developed a methodology to price new items and suggest price changes for existing items based on elasticity curves based on causal inference. Similar items were considered to understand cannibalization effect.
+
+- **ANI Technologies Ltd (OLAcabs)** -- [Technical Manager, Data Science]{.underline}  
+Mar 2020 - Mar 2021, Bangalore, Team Size: 8
+
+  - Established the data science process for CLM (Customer Lifecycle Management) strategy with LTV / CLV (Lifetime Value) models based on quantile regression.
+  
+  - Developed the intelligence to suggest appropriate 'pickup point(s)' for a customer based on their historical data, characteristics of the geofence, time of the day. Pickup candidate locations were pre-selected using `HDBScan` and model was inferred at the runtime to allocate one or more pickup choices. This improved the ride pickup rate and long term retention of the customer.
+  
+  - Built a real-time system to detect the ride use-case (`commute, errands, transit, ...`) based on Google's places data, time of the ride, place tags from OSM (open street maps) at granular geohash level. Helped the leadership in decision making given the changing use-cases (specially during COVID peak time), helped in identifying 'likely to churn' customers and take preemptive steps.
+  
+  - Built the feature store to facilitate multiple analysis and models by bootstrapping spark jobs to create spark dataframes foe citizen data scientists.
+
+- **DISH Corporation** -- [Lead Data Scientist]{.underline}  
+*Dec 2017 - Feb 2020 | Bangalore | Team Size: 10*
+
+  - *Setup the Data Science process* along with cross-functional teams of Data Engineering and Devops across geographies. Managed a team of 4-7 data scientists.
+  
+  - *Created AB Testing Framework* and dashboard to experiment with offers for specific Customer sub-populations to quantify the business value. These on-field randomized control trials equipped the multiple marketing teams to understand the offers and changes that led to goals of increased acquisition, monetization and retention.
+  
+  - *Churn models*: Created rule-based *interpretable* churn model on imbalanced data (class imbalance) to early detection of churn.
+  
+- **Diet Code** -- [Chief Data Scientist]{.underline}  
+Dec 2016 - Dec 2017, Bangalore, Team Size: 3
+
+  - Built various recommender engines to recommend news --Content recommender (based on named entity recognition and Jaccard coefficient), Graph recommender (based on item affinity using Katz distance), Collaborative filtering (matrix factorization for implicit feedback based on libmf and Spark).
+
+Prior work experiences with Cognizant, Majorel, Infosys.
+
+## Tech Stack:
+
+- `SQL` (`Spark SQL`, `Redshift`, `bigquery`, `duckdb` and variants), `DBT`, `airflow`, `databricks` workflows, `Vertex AI` and more.
+- Python: `pytorch`, `scikit-learn`, `fastAPI`, `numpy`, `pandas`, `polars`, `chatlas`, `langchain`, `unsloth`, `huggingface`, `Sentence Transformers`, `NLP` and more.
+
+----
+
+Last Updated: `r Sys.Date()`
