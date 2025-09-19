@@ -2,15 +2,15 @@ Welcome! I am **Srikanth Komala Sheshachala**
 
 > - [linkedin profile](https://www.linkedin.com/in/srikanthks01)
 > - [Short profile for recruiters](https://raw.githubusercontent.com/talegari/talegari/main/work_snippet_for_headhunters.txt)
-> - [Download CV / Resume](https://github.com/talegari/talegari/blob/main/srikanth_resume.pdf)
+> - Download CV / Resume for [Machine learning /AI](https://github.com/talegari/talegari/blob/main/ml_srikanth_resume.pdf) or [Data Science](https://github.com/talegari/talegari/blob/main/ds_srikanth_resume.pdf)
 
 - **Interests**: 
     - Causal inference
     - Interpretable machine learning
     - Setting up, running and infering from AB tests and multi-armed bandits
-    - Recommender Systems and Personalization
+    - Recommender Systems, ADTech, Personalization, Semantic Search, Information Retrieval, Ranking
     - Optimization (Operations Research)
-    - Geospatial analysis / services
+    - Geospatial analysis, ETA prediction etc
     - Graph theoretic approaches to problems in data science
       
 - **Job**: Director (data scientist) at [Games24x7](https://www.games24x7.com/).  
